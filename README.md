@@ -11,7 +11,11 @@ A well-structured AI governance policy helps businesses:
 
 ✅ Align AI practices with corporate values and societal expectations
 
-So, how do you develop an effective AI governance policy? Let’s break it down step by step. 👇
+So, how do you develop an effective AI governance policy? 
+
+(A template pdf document is attached for easy adoption and use )
+
+Let’s break it down step by step. 👇
 
 1️⃣ Conduct an AI Governance Needs Assessment
 
